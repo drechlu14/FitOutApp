@@ -14,6 +14,8 @@ EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		FitOutApp\FitOutApp\FitOutApp.projitems*{0d8842b4-b8e6-4b9c-9e42-ee6be43fa26d}*SharedItemsImports = 4
+		FitOutApp\FitOutApp\FitOutApp.projitems*{3ee88d0a-41ef-4727-8440-e02006d2036f}*SharedItemsImports = 4
+		FitOutApp\FitOutApp\FitOutApp.projitems*{5a350f83-dd7e-485f-87b0-e00c4c2b734b}*SharedItemsImports = 4
 		FitOutApp\FitOutApp\FitOutApp.projitems*{757e6ae1-9e0e-4354-baa6-61fd66f3eeed}*SharedItemsImports = 13
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
