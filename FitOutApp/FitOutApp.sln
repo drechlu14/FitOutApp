@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitOutApp.iOS", "FitOutApp\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitOutApp.UWP", "FitOutApp\FitOutApp.UWP\FitOutApp.UWP.csproj", "{5A350F83-DD7E-485F-87B0-E00C4C2B734B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{81C2EC5E-3FFE-4AA3-BA80-8301DE9F2C31}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		FitOutApp\FitOutApp\FitOutApp.projitems*{0d8842b4-b8e6-4b9c-9e42-ee6be43fa26d}*SharedItemsImports = 4

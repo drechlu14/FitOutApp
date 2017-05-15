@@ -5,12 +5,20 @@
               Title="FitOut"
              x:Name="CalendarItemsPage">
     <ContentPage.Content>
-    <StackLayout>
-
-            <Button Text="BlueButton"
-        BorderColor="Blue"
-        BorderRadius = "5"
-        BorderWidth = "2"/>
-    </StackLayout> 
+        <StackLayout>
+            <Button 
+                x:Name="Button1"
+                Text="1"
+                BorderColor="Blue"
+                BorderRadius = "150"
+                BorderWidth = "5"
+            />
+            <Button 
+                x:Name="Button2"
+                Text="2"
+                WidthRequest="100"
+                HeightRequest="100"
+            />
+        </StackLayout> 
   </ContentPage.Content>
 </ContentPage>

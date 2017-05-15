@@ -15,6 +15,8 @@ namespace FitOutApp.Views
 		{
 			InitializeComponent();
 
+            
+
         }
 
     }
